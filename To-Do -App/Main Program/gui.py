@@ -6,7 +6,7 @@ input_box =sg.InputText(tooltip="Enter to Do", key='Todo')
 add_button = sg.Button("Add")
 
 list_box = sg.Listbox(values=functions.get_todos(), key='Todos',
-                      enable_events=True, size=[25, 10])
+                      enable_events=True, size=[45, 10])
 edit_button = sg.Button("Edit")
 
 window = sg.Window('My To-Do App',
@@ -22,7 +22,7 @@ while True:
     match event:
         case "Add":
             todos = functions.get_todos()
-            new_todo = values['Todo'] + "\n"
+            new_todo = values['Todo']
             todos.append(new_todo)
             functions.write_todos(todos)
             window['Todos'].update(values=todos)
