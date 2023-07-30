@@ -4,3 +4,4 @@ Play with kid
 make a coffee.
 learn
 see a movie
+commit
