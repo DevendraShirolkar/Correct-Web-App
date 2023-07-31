@@ -1,12 +1,9 @@
 Make a tea
 Sleep
 Take a break
-prepare your food
+Prepare your food
 Work in Night
-pay with kid
-draw
-delete
+Draw a picture
 Go for swimming
 Take a snapshot
-
-Keep mum
+Edit the codeMaster the Python!
