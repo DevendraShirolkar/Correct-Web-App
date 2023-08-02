@@ -2,8 +2,5 @@ Work in Night
 Draw a picture of birdGo for swimming
 Master the Python!
 Go to school
+Go to home
 Work with manager
-Do the homework
-Clean the floor
-Start the walk
-Go to bed
